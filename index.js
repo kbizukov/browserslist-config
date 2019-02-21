@@ -10,7 +10,7 @@
  * Use in your package.json as:
  *
  *  "browserslist": [
- *    "extends browserslist-shareable-config"
+ *    "extends browserslist-config"
  *  ]
  *
  */

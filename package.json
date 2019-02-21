@@ -1,5 +1,5 @@
 {
-  "name": "browserslist-shareable-config",
+  "name": "browserslist-config",
   "version": "1.0.0",
   "description": "Shareable Browserslist Config",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kbizukov/browserslist-shareable-config.git"
+    "url": "git+https://github.com/kbizukov/browserslist-config.git"
   },
   "author": "Kirill Bizukov",
   "license": "MIT"
